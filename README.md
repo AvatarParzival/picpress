@@ -6,15 +6,6 @@
 
 ---
 
-## Logos
-
-| Lens (recommended) | Compress Frame | Bolt |
-|:---:|:---:|:---:|
-| ![Logo Lens](assets/logo-lens.jpeg) | ![Logo Compress](assets/logo-compress.jpeg) | ![Logo Bolt](assets/logo-bolt.jpeg) |
-
-> Pick your favourite and rename it to `icon.ico` (convert with an online tool), then uncomment the `icon=` line in `photo_compressor.spec`.
-
----
 
 ## Features
 
