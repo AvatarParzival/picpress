@@ -60,6 +60,10 @@ JPEG · PNG · WebP · BMP · TIFF
 - **WebP** is best when optimizing for the web.
 - Quality below **80** can introduce visible artefacts in detailed areas.
 
-## License
+## Author
 
-MIT
+**Abdullah Zubair**  
+Cybersecurity | GRC | Security Automation
+- GitHub: [@AvatarParzival](https://github.com/AvatarParzival)
+- LinkedIn: [Abdullah Zubair](https://www.linkedin.com/in/abdullahzubairr)
+- Email: [abdullah69zubair@gmail.com](abdullah69zubair@gmail.com)
